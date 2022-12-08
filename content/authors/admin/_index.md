@@ -1,7 +1,7 @@
 ---
 title: Sin-Ging Zau
 role: Students for mathematics
-avatar_filename: avatar.jpg.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
