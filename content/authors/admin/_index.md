@@ -1,7 +1,7 @@
 ---
 title: XinJing Zhou 周新景
 role: Students for mathematics
-avatar_filename: woailuo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -18,15 +18,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  # - icon: graduation-cap
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Xinjing-Zhou
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
