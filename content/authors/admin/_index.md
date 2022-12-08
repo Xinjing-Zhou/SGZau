@@ -2,12 +2,8 @@
 title: XinJing Zhou 周新景
 role: Students for mathematics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,24 +21,15 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Zhejiang University
-    url: https://www.zju.edu.cn/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 status:
   icon: ☕️
-last_name: zhou
+last_name: Wu
 highlight_name: true
-first_name: Xinjing
+first_name: Alice
 email: ""
 ---
