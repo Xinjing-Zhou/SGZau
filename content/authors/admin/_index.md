@@ -1,5 +1,7 @@
 ---
-avatar_filename: d9634609-3060-4224-b4e8-4f9a88b0cf4d.jpeg
+title: Sin-Ging Zau
+role: Students for mathematics
+avatar_filename: avatar.jpg.jpg
 bio: ""
 interests: []
 social:
@@ -27,9 +29,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Students for mathematics
 highlight_name: true
-title: Sin-Ging Zau
 first_name: Alice
 email: ""
 ---
