@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: d9634609-3060-4224-b4e8-4f9a88b0cf4d.jpeg
 bio: ""
 interests: []
 social:
