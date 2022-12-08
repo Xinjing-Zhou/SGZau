@@ -15,3 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+天将降重任于斯人也，必先苦其心志，饿其体肤，劳其筋骨
