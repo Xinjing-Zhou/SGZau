@@ -1,5 +1,5 @@
 ---
-title: 故事集中
+title: 讲究的talks
 abstract: test
 location: where
 date: 2022-12-08T18:01:11.798Z
