@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/zhou_xinjing
     label: Follow me on Twitter
     display:
       header: true
@@ -25,8 +25,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Zhejiang University
+    url: https://www.zju.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -41,8 +41,8 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: zhou
 highlight_name: true
-first_name: Alice
+first_name: Xinjing
 email: ""
 ---
